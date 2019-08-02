@@ -1,3 +1,9 @@
+# React Sandbox: Off Canvas Menu Branch
+
+Example of side navigation menu which is positioned off canvas. Clicking on
+a hamburger icon toggles the menu into view with an animation implemented
+by pure css.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

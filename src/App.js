@@ -1,9 +1,16 @@
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
+
+import { About, Home, Klingons } from './pages'
 
 function App() {
-  return <div className="App">Hi</div>
+  return (
+    <Router>
+      <Route exact path="/" component={Home} />
+      <Route exact path="/about" component={About} />
+      <Route exact path="/klingons" component={Klingons} />
+    </Router>
+  )
 }
 
 export default App
