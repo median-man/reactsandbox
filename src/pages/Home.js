@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div classname="container">
+    <div className="container">
       <div className="jumbotron">
         <h1 className="display-4">Hello, world!</h1>
         <p className="lead">
