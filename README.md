@@ -4,7 +4,7 @@ This branch is an example of using the
 [Photo Sphere Viewer API](https://photo-sphere-viewer.js.org/api/index.html) in
 a React app to display a 360 panoramic photo and set the image file via a prop.
 
-See [App]('src/App.js) for use of the SphereComponent. Refer to
+See [App](src/App.js) for use of the SphereComponent. Refer to
 [SphereComponent](src/components/SphereComponent/index.js) for a component
 wrapper for the Photo Sphere Viewer API.
 
