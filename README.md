@@ -1,7 +1,6 @@
-# React Sandbox
+# React Sandbox: Toast
 
-This repo is used for trying out various features and libraries in isolation.
-Each branch is a demo.
+Simple implementation of a toast notification.
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).

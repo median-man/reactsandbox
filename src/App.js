@@ -1,9 +1,9 @@
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+
+import Toast from './Toast'
 
 function App() {
-  return <div className="App">Hi</div>
+  return <Toast />
 }
 
 export default App
