@@ -17,6 +17,7 @@ class App extends React.Component {
     panorama = panorama === panorama1 ? panorama2 : panorama1
     this.setState({ panorama })
   }
+
   render() {
     console.log(this.state)
     return (
