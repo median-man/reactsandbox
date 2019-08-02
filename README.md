@@ -1,6 +1,7 @@
 # React Sandbox: Toast
 
-Simple implementation of a toast notification.
+Simple implementation of a simple toast notification without using Transition
+Group or another library.
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
